@@ -1,4 +1,4 @@
-# Machine learning analyse of Human Activity Recognition (HAR)
+# Machine learning analysis of Human Activity Recognition (HAR)
 
 ### What's included
 
