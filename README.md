@@ -67,9 +67,9 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 				<br>
 				MSE = 0.03854
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_carlitos.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_carlitos.png" height="250">
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_carlitos.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_carlitos.png" height="250">
 			</td>
 		</tr>
 	</table>
@@ -102,9 +102,9 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 				<br>
 				MSE = 0.03321
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_pedro.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_pedro.png" height="250">
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_pedro.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_pedro.png" height="250">
 			</td>
 		</tr>
 	</table>	
@@ -128,9 +128,9 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 				<br>
 				MSE = 0.01969
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_adelmo.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_adelmo.png" height="250">
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_adelmo.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_adelmo.png" height="250">
 			</td>
 		</tr>
 	</table>	
@@ -155,9 +155,9 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 				<br>
 				MSE = 0.00754
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_charles.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_charles.png" height="250">
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_charles.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_charles.png" height="250">
 			</td>
 		</tr>
 	</table>
@@ -194,9 +194,9 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 				<br>
 				MSE = 0.03148
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_eurico.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_eurico.png" height="250">
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_eurice.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_eurico.png" height="250">
 			</td>
 		</tr>
 	</table>
@@ -249,9 +249,9 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 				<br>
 				MSE = 0.02644
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_jeremy.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_jeremy.png" height="250">
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_jeremy.png" height="300">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_jeremy.png" height="250">
 			</td>
 		</tr>
 	</table>
