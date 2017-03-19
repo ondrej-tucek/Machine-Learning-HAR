@@ -34,7 +34,7 @@ har/
 If you have a clean data, you don't have to first run script `cleaning_data.py`
 ### Usage:
 ```
-    andrew@zeus:~/projects/python/har$ ipython assignment.py
+    $ ipython assignment.py
 ```
 
 ## Results
