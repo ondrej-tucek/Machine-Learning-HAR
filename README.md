@@ -189,7 +189,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 			</td>
 			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Variable_Importance_eurico.png" height="250">
 			</td>
-			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_eurico.png" height="250">
+			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_eurice.png" height="250">
 			</td>
 		</tr>
 	</table>
