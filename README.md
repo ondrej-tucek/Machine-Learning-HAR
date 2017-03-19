@@ -47,7 +47,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 		<tr valign="middle">
 			<td align="center">
 				<table width="100%">
-					<tr>    	  
+					<tr>
 						<th>id</th>
 						<th>class</th>
 					</tr>
@@ -73,8 +73,6 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 			</td>
 		</tr>
 	</table>
-	
-	
 	<table>
 		<tr>
 			<th align="center" colspan="3">pedro</th>
@@ -82,7 +80,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 		<tr valign="middle">
 			<td align="center">
 				<table width="100%">
-					<tr>    	  
+					<tr>
 						<th>id</th>
 						<th>class</th>
 					</tr>
@@ -107,8 +105,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_pedro.png" height="300">
 			</td>
 		</tr>
-	</table>	
-	
+	</table>
 	<table>
 		<tr>
 			<th align="center" colspan="3">adelmo</th>
@@ -116,7 +113,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 		<tr valign="middle">
 			<td align="center">
 				<table width="100%">
-					<tr>    	  
+					<tr>
 						<th>id</th>
 						<th>class</th>
 					</tr>
@@ -133,9 +130,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 			<td align="center"><img src="https://raw.github.com/ondrej-tucek/Machine-Learning-HAR/master/img/Confusion_Matrix_adelmo.png" height="300">
 			</td>
 		</tr>
-	</table>	
-	
-	
+	</table>
 	<table>
 		<tr>
 			<th align="center" colspan="3">charles</th>
@@ -143,7 +138,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 		<tr valign="middle">
 			<td align="center">
 				<table width="100%">
-					<tr>    	  
+					<tr>
 						<th>id</th>
 						<th>class</th>
 					</tr>
@@ -161,8 +156,6 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 			</td>
 		</tr>
 	</table>
-	
-	
 	<table>
 		<tr>
 			<th align="center" colspan="3">eurice</th>
@@ -170,7 +163,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 		<tr valign="middle">
 			<td align="center">
 				<table width="100%">
-					<tr>    	  
+					<tr>
 						<th>id</th>
 						<th>class</th>
 					</tr>
@@ -200,8 +193,6 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 			</td>
 		</tr>
 	</table>
-
-
 	<table>
 		<tr>
 			<th align="center" colspan="3">jeremy</th>
@@ -209,7 +200,7 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 		<tr valign="middle">
 			<td align="center">
 				<table width="100%">
-					<tr>    	  
+					<tr>
 						<th>id</th>
 						<th>class</th>
 					</tr>
@@ -268,7 +259,6 @@ If you have a clean data, you don't have to first run script `cleaning_data.py`
 
 
 ## License
+[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/ondrej-tucek/Machine-Learning-HAR/blob/master/LICENSE)
 
-Code released under the [MIT license](https://github.com/ondrej-tucek/Machine-Learning-HAR/LICENSE).
 
-    
